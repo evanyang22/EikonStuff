@@ -16,4 +16,4 @@ Purpose: This programs reads in csv data from an old Thomson Dataset (1984-2011)
 Purpose: This one diagnosed why the amount of reports were decreasing each year, specifically in the year 2021 and 2022. It can create a graph of the amount of skipped companies per year. It can also identify top contributors per year and top common contributors.
 
 ### Finished_Eikon_Data_Analysis.ipynb
-Purpose: This one creates a graph of the number of total downloaded reports per year and the number of unique cusip6s per year.
+Purpose: This one creates a graph of the number of total downloaded reports per year and the number of unique cusip6s per year from the csv data.
