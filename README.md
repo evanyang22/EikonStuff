@@ -6,3 +6,6 @@ Purpose: To create an output csv file with important information from the folder
 
 To use: Drag the ipynb file into the folder (Ex: BetaTest) containing the pdf reports organized by company first, then year second. Run the ipynb file using Jupyter Notebook and a csv file will be generated within the folder after it. You can also convert this program to a Python file and run it using the terminal ("python SearchScrapper.py" after navigating to the directory "cd xxx")
 
+### 11_8_2022_Lists_Comparison.ipynb
+
+Purpose: This programs reads in csv data from an old Thomson Dataset (1984-2011) and the newly downloaded report data (2012-2022) and creates graphs such as number of total downloaded reports per year and reports from shared contributors per year.
